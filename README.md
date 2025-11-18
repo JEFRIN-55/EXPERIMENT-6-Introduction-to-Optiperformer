@@ -80,4 +80,4 @@ The system includes:
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Therefore the the working of optiperformer is learnt and a simulation had been done and verified.
